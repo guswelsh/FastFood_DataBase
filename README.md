@@ -1,2 +1,3 @@
 # McArtio Database
-Creation of a data base for a fast food chain
+
+The objective of this project is to develop a comprehensive database for a fast food chain. 
